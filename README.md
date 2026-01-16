@@ -4,7 +4,7 @@
 Built a Decision Support System (DSS) to automate scheduling and oversight for $500K in annual activity. Replaced manual sheet-syncing with an automated database architecture.
 
 [![Click to view full PDF](TC_Calendar.PNG)](Lukas_Ishihara_Event_Capacity_Planning_DSS.pdf)  
-_Click image to view full slide deck (6 Slides)_
+## _**Click image to view full slide deck (6 Slides)**_
 
 # Key Highlights
 **Problem:**  
